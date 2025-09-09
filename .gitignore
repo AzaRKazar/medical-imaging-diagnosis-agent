@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Local data & temp
+*.sqlite3
+*.db
+*.json
+*.png
+*.jpg
+*.jpeg
+*.dcm
+temp_*
