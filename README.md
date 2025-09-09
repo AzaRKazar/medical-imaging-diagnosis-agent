@@ -5,7 +5,7 @@ A Medical Imaging Diagnosis Agent built on Streamlit + Ollama (LLaVA) that provi
 **Output (AI-generated Report):**
 
 <p align="center">
-  <img src="sample_outputs/output_example.png" alt="AI Diagnostic Output" width="600"/>
+  <img src="sample_output/collage.jpg" alt="AI Diagnostic Output" width="600"/>
 </p>
 
 ## Features
