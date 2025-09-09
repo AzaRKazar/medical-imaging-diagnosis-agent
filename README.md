@@ -2,6 +2,12 @@
 
 A Medical Imaging Diagnosis Agent built on Streamlit + Ollama (LLaVA) that provides AI-assisted analysis of medical images such as X-rays, MRIs, CT scans, and ultrasounds. The agent acts as a virtual radiology assistant to analyze images, highlight findings, suggest possible diagnoses, and provide patient-friendly explanations --- all while running fully local for privacy and cost efficiency.
 
+**Output (AI-generated Report):**
+
+<p align="center">
+  <img src="sample_outputs/output_example.png" alt="AI Diagnostic Output" width="600"/>
+</p>
+
 ## Features
 
 - **Comprehensive Image Analysis**
