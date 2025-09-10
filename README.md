@@ -5,7 +5,7 @@ A Medical Imaging Diagnosis Agent built on Streamlit + Ollama (LLaVA) that provi
 **Output (AI-generated Report):**
 
 <p align="center">
-  <img src="sample_output/collage.jpg" alt="AI Diagnostic Output" width="600"/>
+  <img src="collage.jpg" alt="AI Diagnostic Output" width="600"/>
 </p>
 
 ## Features
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ### 2. Install Ollama
 
-Download Ollama from https://ollama.com/download
+Download Ollama from <https://ollama.com/download>
 
 Pull a multimodal model:
 
@@ -90,7 +90,7 @@ streamlit run app.py
 
 ```
 
-Open in browser → http://localhost:8501
+Open in browser → <http://localhost:8501>
 
 ## Analysis Components
 
